@@ -8,3 +8,5 @@ Libs Required :
 4. IRremoteESP8266-2.7
 
 See pdf for connection
+
+![alt text](https://github.com/vinojv96/Wi-Fi-IR-Blaster-Recorder/blob/main/Preview.PNG "Webpage")
